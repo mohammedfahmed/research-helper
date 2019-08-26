@@ -1,0 +1,73 @@
+ In this paper, we analyze physical-layer security (secrecy rates) of SUs in CRN in the presence of eavesdroppers, jammers and PU emulators (PUEs) where SUs compete not only with jammers and eavesdroppers who are trying to reduce SU's secrecy rates but also against PUEs who are trying to compel the SUs from their current channel by imitating the behavior of PUs
+ The main contribution of this work is the design of a game theoretic approach to maximize utilities (that is proportional to secrecy rates) of SUs in the presence of eavesdroppers, jammers and PUEs
+ As the proposed approach is generic and considers different attackers, it can be particularized to a situation with eavesdroppers only, jammers only or PUEs only while evaluating physical-layer security of SUs in CRN
+ In addition, due to the energy budget limitation, persistent jamming is burdensome to the cooperative jammers
+ The system has two combating jammers, each aiming to enhance the secure rate to one receiver only, while hurting the other receiver by sending Gaussian jamming signals
+ We provide simulation results to show the convergence of the rate and power allocations, and study the effect of increasing the available power of the transmitter and/or the jammers
+Military satellite communication (SATCOM) on-the-move (SOTM) is vulnerable for intentional and unintentional interference either from terrestrial or satellite jammers
+In this paper, we apply the existing framework of anomaly-based intrusion detection (ABID) to the problem of detecting protocol-aware jammers
+ These types of jammers target MAC or NET layer control messages in an attempt to increase jamming effectiveness and remain harder to detect
+ Through simulation, we show that these types of jammers can be detected in a large portion of scenarios
+ Consequently, we have designed the jammers so that they emulate the effects of CP jamming and nulling in frequency-selective static channel
+ The results reflect the fact that CP attacks are particularly suitable for power-constrained jammers in high SNR regime
+ In this paper, we consider the problem of determining how to efficiently place jammers to minimize the number of jammers needed to disrupt a network by partitioning it into a specified number of disconnected subnetworks, each of which is limited in size
+With the proliferation of GPS jammers and spoofers, commercial GPS receivers need robust anti-jam (AJ)/anti-spoofing (AS) solutions to ensure the future integrity of precision navigation and timing (PNT) solutions
+ The program seeks to make this capability affordable through using opportunistic distributed devices as the sensor network; that is, through adding spectrum measurement functions to devices such as tactical radios and jammers already deployed for other purposes
+This paper presents a robust dynamic spectrum access (DSA) decision making framework for a satellite communication (SATCOM) system with primary users (PUs) and secondary users (SUs) operating in the presence of cognitive jammers
+This paper presents a robust dynamic spectrum access (DSA) decision making framework for a satellite communication (SATCOM) system with primary users (PUs) and secondary users (SUs) operating in the presence of cognitive jammers
+This paper presents a robust dynamic spectrum access (DSA) decision making framework for a satellite communication (SATCOM) system with primary users (PUs) and secondary users (SUs) operating in the presence of cognitive jammers
+ We consider various jamming behaviors, where jammers may attack all available channels with arbitrarily changing strategies over time, attack a subset of the channels at certain time slots, or have different intelligence, i
+ Without any priori knowledge about the channels and jammers, it is very challenging to design an efficient and practical jamming-resistant SAA algorithm to reach the optimal EE goal
+ If control channels get jammed, network's performance degrades dramatically; therefore, the jammers primary target in cognitive radio networks is to demolish control channels in order to disturb the network's performance
+ Our testbed evaluation shows the destructive power of reactive jamming attack, and also validates the efficacy and efficiency of our defense mechanisms in the presence of numerous types of reactive jammers with different jamming signal powers
+ This effect aggravates the known hidden station problem when the number of jammers increases
+ We also find evidence that the collaboration between jammers can enable friendly jamming, which is both effective and minimally invasive
+ In this paper, we use unmanned aerial vehicles (UAVs) to relay the message of an OBU and improve the communication performance of VANETs against smart jammers that observe the ongoing OBU and UAV communication status and even induce the UAV to use a specific relay strategy and then attack it accordingly
+Non-orthogonal multiple access (NOMA) systems are vulnerable to jamming attacks, especially smart jammers who apply programmable and smart radio devices such as software defined radios to flexibly control their jamming strategy according to the ongoing NOMA transmission and radio environment
+ The Dyna architecture that formulates a learned world model from the real anti-jamming transmission experience and the hotbooting technique that exploits experiences in similar scenarios to initialize the quality values are used to accelerate the learning speed of the Q-learning based power allocation and thus improve the communication efficiency of NOMA transmission in the presence of smart jammers
+ The PUs need to select a pair of SUs as jammers to interfere with the eavesdropper so as to preserve the secrecy of their wireless communications
+ The first SU pair that makes the primary secrecy capacity higher than an optimal threshold is selected as the jammers
+ In this paper, we analyze physical-layer security (secrecy rates) of SUs in CRN in the presence of eavesdroppers, jammers and PU emulators (PUEs) where SUs compete not only with jammers and eavesdroppers who are trying to reduce SU's secrecy rates but also against PUEs who are trying to compel the SUs from their current channel by imitating the behavior of PUs
+ The main contribution of this work is the design of a game theoretic approach to maximize utilities (that is proportional to secrecy rates) of SUs in the presence of eavesdroppers, jammers and PUEs
+ As the proposed approach is generic and considers different attackers, it can be particularized to a situation with eavesdroppers only, jammers only or PUEs only while evaluating physical-layer security of SUs in CRN
+Anti-jamming interference alignment (IA) is an effective method for battling adversarial jammers for IA networks
+ Besides, the abundant power from the jammers and interferences, which used to be deemed as a harmful factor, can be exploited for energy harvesting (EH) by the legitimate users as a power supply
+The smart jammers pose a severe threat to wireless communications due to their abilities of learning the users' transmission strategies
+ We propose a new joint relay and jammer selection (JRJS) scheme for protecting wireless communications against eavesdropping, where an intermediate node is selected as the relay for the sake of forwarding the source signal to the destination and meanwhile, the remaining intermediate nodes are employed to act as friendly jammers, which broadcast the artificial noise for disturbing the eavesdropper
+ We further investigate the power allocation among the source, relay and friendly jammers for maximizing the secrecy rate of proposed JRJS scheme, and derive a closed-form sub-optimal solution
+ The PUs need to select a pair of SUs as jammers to interfere with the eavesdropper so as to preserve the secrecy of their wireless communications
+ The first SU pair that makes the primary secrecy capacity higher than an optimal threshold is selected as the jammers
+In this paper, we propose a novel anti- eavesdropping scheme by introducing friendly jammers to a wireless network of things (WNoT)
+ In particular, we establish a theoretical framework to evaluate the eavesdropping risk of WNoT with friendly jammers and the eavesdropping risk of WNoT without jammers
+ Our theoretical model takes into account various channel conditions such as the path loss and Rayleigh fading as well as the placement schemes of jammers
+ Our extensive numerical results show that using jammers in WNoT can effectively reduce the eavesdropping risk
+ Besides, our results also show that the eavesdropping risk heavily depends on both the channel conditions and the placements of jammers
+ In the literature, assuming that the receiver operates in HD mode, secrecy data rate maximization problems subject to the power transmission constraint have been considered in which cooperating nodes act as jammers to confound the eavesdropper
+The effectiveness and the simple implementation of physical layer jammers make them an essential threat for wireless networks
+ In a multihop wireless network, where jammers can interfere with the transmission of user messages at intermediate nodes along the path, one can employ jamming oblivious routing and then employ physical-layer techniques (e
+ This effect aggravates the known hidden station problem when the number of jammers increases
+ We also find evidence that the collaboration between jammers can enable friendly jamming, which is both effective and minimally invasive
+ If control channels get jammed, network's performance degrades dramatically; therefore, the jammers primary target in cognitive radio networks is to demolish control channels in order to disturb the network's performance
+Denial-of-service attacks launched by malicious jammers can pose significant threats to infrastructure-less wireless networks without a centralized controller
+ Inspired by this observation, this paper proposes and studies a cooperative anti-jamming scheme designed to enhance the quality of links degraded by jammers
+Anti-jamming interference alignment (IA) algorithm is an effective method to battle with adversarial jammers
+ Nevertheless, the abundant power from the jammers and interferences can be harvested by the legitimate users as a natural power supply
+ In this paper, we present an iterative algorithm that adapts transmit signal vector and power of the user using game theory to enhance the physical-layer security (achievable secrecy rate) of massive MIMO system in the presence of eavesdropper and jammers
+ The proposed algorithm takes account of impact of jammers while meeting the target Signal-to-Interference-plus-Noise Ratio (SINR) and the impact of both eavesdropper and jammers while evaluating the secrecy rate of the users
+ When both eavesdropper and jammers are present close to the users, secrecy rate of legitimate users degrade significantly
+Within the experiments described in this paper, the authors focused the research on the capabilities of currently available commercial jammers, and tried to prove whether they have the potential to prevent or at least to make it more difficult to misuse commercial UAVs (Unmanned Aerial Vehicles)
+This paper investigates the secrecy rate maximization problem for the multiple-input-single-output multiple-antenna-eavesdropper (MISOME) wiretap channel with multiple randomly located jammers
+ Moreover, the friendly jammers are properly selected to assist the legitimate link for better secure transmission with some payoffs
+ With this system model, we first formulate a Stackelberg game between the BS and the assisting jammers with full channel state information
+ Stackelberg equilibriums, including optimal fraction of transmit power for AN, optimal transmit power, and asking prices of assisting jammers, are first proved to exist and then analytically derived
+ The investigation considers a dual-hop single amplify-and-forward (AF) based untrustworthy half/full-duplex bi-directional relay with a finite number of friendly jammers in the system model
+ In the proposed system model, eavesdroppers overhear the legitimate communication passively that results in loss in secrecy capacity/rate and jammers jam the legitimate communication with an aim to deteriorate the SINR at the receiver for the users
+ Specifically, we consider a network of base stations (BSs) or access points (APs) and investigate the impact of a fixed number of jammers that are randomly deployed according to a Binomial point process
+ For instance, we will show that with only 1 jammer per BS/AP: 1) the outage probability of the wireless network can be increased from 1% (as seen in the non-jamming case) to 80% and 2) when retransmissions are used, the jammers cause the effective network activity factor (and hence the interference among the BSs) to be doubled
+ In particular, a non-trivial behavior is seen, which indicates that the number of jammers required to attack the wireless network must scale with the BS density only until a certain value beyond which it decreases
+In this paper, we enhance physical layer security for downlink heterogeneous networks by using friendly jammers and full-duplex users
+ The jammers are selected to transmit jamming signal if their interfering power on the scheduled users is below a threshold, meanwhile the scheduled users confound the eavesdroppers using artificial noise by full-duplexing
+ In particular, the locations of active jammers are modeled by a modified Poisson hole process
+ The system has two combating jammers, each aiming to enhance the secure rate to one receiver only, while hurting the other receiver by sending Gaussian jamming signals
+ We provide simulation results to show the convergence of the rate and power allocations, and study the effect of increasing the available power of the transmitter and/or the jammers
+ Specifically, we investigate the impact of a fixed number of jammers against a network of base stations (BS) or access points (AP)

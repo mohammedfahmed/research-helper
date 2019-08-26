@@ -1,0 +1,81 @@
+NATO's next generation narrow band waveform (NBWF) radios
+In accordance with AB14 use case scenarios, Android devices were used to exchange images and annotations over Soldier Radio Waveform (SRW) and WiFi MANETs in fully distributed manner
+This paper presents a distributed protocol that supports power control and directional spectrum reuse for TDMA-based MANET waveforms
+This paper presents simulation results showing the gain in network throughput obtained in comparison to standard omni-directional antennas using a OPNET model of a tactically relevant military waveform
+In the type of system we consider, multiple user terminals transmit to a satellite using a coordinated frequency hopping waveform, and the received signals are relayed to a ground processing “hub” terminal for baseband processing
+The system is fully software defined and capable of transmitting and receiving a linearly stepped frequency waveform between 1GHz and 4GHz with reconfigurable frequency hop and sweep rates
+The fundamental problem is the lack of ideal ambiguity properties of the available waveforms
+OCP consists of a master agent with a single instantiation at each node, and multiple radio agents one for each waveform type a node has
+Simulation results show that the waveforms obtained using the proposed scheme outperform the previous waveforms including the JTIDS waveform with respect to both the multinet capability and the data rate
+On the other side, with recent technologies, radar systems become adaptive and intelligent systems that can change their waveforms
+This proposal introduces a wideband non-contiguous waveform that offers more reliability thanks to the introduction of frequency diversity and also is able to reach throughputs in excess of 150kb/s
+This waveform, called “HF XL” proposes to use Turbo codes instead of traditional convolutional codes as forward error correction (FEC) coding scheme
+The latest data waveforms use channels wider than 3 kHz to boost data throughput and robustness
+This has driven the need for a more capable Automatic Link Establishment (ALE) system that links faster and adapts the wideband HF (WBHF) waveform to efficiently use available spectrum
+A recent study has introduced a new spread spectrum waveform based on filter bank multicarrier techniques
+The proposed waveform that is called FB-MC-SS offers the advantages of simple implementation and robust performance when it is subject to narrow/partial band interference
+Also, an algorithm for optimizing the peak to average power ratio (PAPR) of the FB-MC-SS waveform is presented
+Application of this algorithm results in a waveform with a very low PAPR of about 4 dB
+The recent introduction of waveforms utilizing HF bandwidths much greater than 3 kHz represents a significant change in the potential for moving large amounts of data over HF radio systems
+This paper outlines the results of a month long study that employed wideband HF data waveforms, in conjunction with a fourth generation automatic link establishment system, to evaluate the supportability of HF data communications between three sites across Canada
+Harris Corporation is conducting a series of investigations in which network simulations are used to characterize and analyze the performance of existing HF communications waveforms and protocols, and to develop and optimize innovative techniques realizing improved network throughput, capacity, and user experience
+This paper proposes a technique for intercepting the symmetric signals and uses the example of the widely used Triangular FM waveform as a case study, due to its importance
+Due to the symmetric nature of the Triangular FM waveform, the output of this self-convolution procedure is the same as the autocorrelation function of the Triangular FM waveform with a slightly higher sidelobe pedestal due to added noise
+The higher sidelobe pedestal results in incurring a small SNR loss which is the price paid for blind interception of the triangular FM waveform
+The derived expressions may be helpful in gaining insight on the statistical properties of band-limited digital signal waveforms
+Two generations (so called 2G and 3G ALE) have been standardized since the 90s, and are today being revisited due to the emergence of wideband HF waveforms
+Testing existing or developing new military waveforms requires computationally efficient simulations to allow for large scenarios that would not be feasible with hardware
+The long delays require extensive equalization of a single carrier wideband waveform, and for a typical high data rate 5 MHz waveform at UHF, the required equalizer depth was found to be more than 100 symbol periods
+These predicted channels are combined with instantaneous channel estimation from received signals to calculate signal-to-noise-ratio (SNR) and link rate (using analytical waveform models)
+A framework for designing covert sonar waveform and assessment of its steganographic security for sonar applications is presented, based on a model for the underwater ambient acoustic environment the waveform is intended to hide under
+Adopting the lessons from the steganography literature, steganographic security is measured not by evaluating performance against potential intercept detectors, but by measuring the Kullback-Leibler divergence between the background model and the model of the background perturbed by the candidate waveform
+This paper examines the impact of satellite transponder nonlinearities on the performance of protected tactical waveform (PTW) for the return link (RL)
+Protected tactical waveform (PTW) provides cost-efficient, jamming-resistant communications via both government and commercial satellites over multiple frequency bands such as the C-, Ku-, Ka-, and X-band
+The antifragile strategy proposed in this paper revolves around using a frequency-shift keying (FSK) waveform that is tuned in such a way to exploit the jammer's behavior
+We derive the channel capacity and cutoff rate when using the waveform, and provided numerical results via simulation to gain further insight
+Waveforms proposed for future communication systems aim at fulfilling the demanding requirements of the next generation of 5G applications
+Recently, we have proposed filter bank multicarrier spread spectrum (FB-MC-SS) as a robust and stealthy HF communication waveform
+Two waveform bandwidths are examined; a 24 kHz and a 200 kHz bandwidth
+Our attack methodology utilizes simulated power consumption waveforms and is applied to the Keccak high-speed core hardware design from the SHA-3 competition
+1-bit, 2-bit, 4-bit, 8-bit, and 16-bit CPA selection function key guess size attacks are performed on the waveforms to compare and analyze computational effort of successful key extraction on MAC-Keccak
+This work is part of the basic research and development to support the implementation of NATO's Narrowband Waveform (NBWF)
+In this paper we study the detection performance of a Multiple Input Multiple Output (MIMO) radar that uses waveforms and receiver filters designed by a Compressed Sensing (CS) approach
+The analysis considers the explicit presence of clutter as well as different detection thresholds, and indicates that the use of radar waveforms and receiver filters designed through CS significantly improves detection and false alarm performance
+Inspired by the success of multi-carrier waveforms such as Orthogonal Frequency Division Multiplexing (OFDM) in radio communication, multi-carrier based radar waveform designs have gained strong interest recently
+Reasons for this include their resistance to multipath fading, ability to overcome the limitations of a congested frequency spectrum, ability to exploit frequency diversity gains, and potential to perform radar and communication functions simultaneously within the same hardware using the same waveform
+This paper provides recent research on multi-carrier waveform design for joint radar and communication systems
+Next, it is shown that even though these MCPC sequences produce periodic autocorrelation sidelobes with deep nulls, their overall sidelobe level is higher than that of other traditional pulse-compression radar waveforms such as Linear Frequency Modulated (LFM) waveforms
+As electromagnetic spectrum availability shrinks, there is growing interest in combining multiple functions, such as radar and communications signals, into a single multipurpose waveform
+This research explores an alternative approach of implementing an in-band, mixed-modulated waveform that combines surveillance radar and communication functions into a single signal
+There have been many proposed waveform designs that attempt to resolve this ambiguity, however, the problem is aggravated as the number of targets grows
+Existing approaches for multitarget detection use waveforms of limited configurability, such as up-down chirps separated by CW segments for measuring Doppler
+In this paper, we propose a chirp diversity pulse train waveform and the associated detector structure that isolates the returns that lie within one pulse interval
+Furthermore, the waveform is tuned to resolve delay-Doppler coupling of multiple targets with no need for a separate CW segment often used to solve for Doppler
+Polyphase codes based on linear FM (LFM) and piecewise LFM (PLFM) waveforms are used as chips for the complementary code pair, since they satisfy both the conjugate symmetry/anti-symmetry and the quasi-orthogonality conditions
+Such sets are constructed using polyphase code sets based on LFM and PLFM waveforms as chips
+Our experiments show that centralizing the intelligence in the MEC allows to guarantee the requirements of the tactical applications either by adapting the waveform parameters, or through changing the radio interface or even by reconfiguring the applications
+The data link platforms offered for these applications must therefore address the need to quickly prototype waveforms, be easy for field and use-case tests, support quick means for security layer add-ons and easily be amenable to technology adoption, ruggedization and deployment
+This paper describes some of the challenges of design and prototyping for defence applications and presents how agile systems built with the right choice of design partition and architecture choices with hardware, software and waveforms can be cognizant of the challenges of the defence applications and illustrates few example cases with simulations and real field deployment trials
+To resolve these limitations, DARPA has been exploring an architecture which separates the transceiver from the waveform processors from the application processors [1]
+Each of these processors can be programmed with composable waveform blocks that can be chained together dynamically to leverage the available apertures to perform different missions from communications, SIGINT, electronic warfare, and others
+As part of the effort, many of the current generation of airborne tactical waveforms were ported to the new architecture
+The first case study simulates the slow-hopping anti-jamming waveform
+Waveform specifications provide little intuition as to how to overcome these
+This allows us to use a waveform generator and a digitizer with relatively lower sample rates and significantly lowers the cost compared to sampling the whole band at once
+To fully leverage the expanded space resources, the DoD must also address the integration of commercial waveforms into the DoD tactical terminals
+The terminal flexibility for operating across multiple operator networks, in multiple frequency bands, and support different waveforms/modems is not only a pre-requisite for accessing advanced services but also key in providing resilience against threats
+The High Performance Waveform (HPW) was developed before parallel concatenated codes (PCCC) and serial concatenated codes (SCCC) were in wide use and so it makes sense to take advantage of the advancements in communication theory and processor computation speed that have taken place since its inception
+Proposed modulation technique implements dual Sidelobe Level (SLL) ASK with waveform diversity by exploiting multiple orthogonal waveforms
+This method utilizes K bits of information using only K + 1 orthogonal waveform
+Simulations reveal that the operation of proposed method coupled with NDA threshold estimation process can reach more data rate, since it exhibits almost the same BER performance as existing methods under fading channel without requiring more orthogonal waveform
+The SATURN Enhanced Data Rate (SEDR) waveform has been introduced by Line Of Sight (LOS) NATO standardization group as the new coalition standard for military airborne Ultra High Frequency (UHF) communications
+NarrowBand Waveforms (NBWF) are often used in VHF or UHF tactical communications
+For these kinds of waveforms, low latency and robust data rates result in short codeword lengths that are challenging in terms of channel coding
+This paper extends previous work for extended target detection via Multiple Input Multiple Output (MIMO) bistatic radar using a compressed sensing (CS) approach by considering the detection of multiple fluctuating targets in the presence of transmit waveform dependent clutter
+Detection waveforms and receiver filter are designed jointly using an algorithm that minimizes the mutual coherence of the transmit waveform and receive filter matrix product
+Results indicate that the designed waveforms outperform benchmark waveforms in terms of false alarm and detection rates for Swerling targets with unknown impulse responses
+This paper analyzes the outage probability of a multicarrier signal, using the Protected Tactical Waveform (PTW) on the return link (RL)
+Spectrally confined filter bank based multicarrier (FBMC) waveform is applied for broadband transmission in order to minimize the interference leakage between the new broadband system and the legacy narrowband system
+Fast convolution filter banks (FC-FBs) are used for flexible waveform processing both on the transmitter and the receiver sides
+The flexibility of FC-FB makes it possible to optimize the broadband waveform processing and spectrum sensing filter characteristics independently
+Emphasis is on managing cross-domain roaming, where challenges include terminal mobility, waveform switching, adaptive modulation/coding, antenna beam handover, terminal reconfiguration, service transfer, along with associated management and control of multiple service providers in realtime

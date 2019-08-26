@@ -1,0 +1,78 @@
+multicast routing protocol for wireless mobile ad hoc networks (MANETs) that uses distribution trees to efficiently forward multicast traffic
+The proposed multicast routing protocol is built as a MANET extension to the popular Protocol Independent Multicast (PIM) routing protocol used in wired networks; hence, we call our scheme PIM-MANET
+Similar to PIM, PIM-MANET is agnostic of the unicast routing protocol that is used to connect users in the network
+PIM-MANET extends PIM to the wireless domain by implementing required features such as Duplicate Packet Detection (DPD) to avoid routing loops, removing extraneous messaging, and using a novel tree creation mechanism to form multicast trees that achieve better performance in presence of asymmetric links
+We implement the PIM-MANET protocol as a routing daemon for the Linux environment and show the benefits of our approach over currently used MANET multicast protocols
+Although many routing algorithms for DTNs have been proposed, prior works generally focus on optimizing delivery ratio and cost by finding the relay node with the highest delivery probability to the destination
+Since current heuristic-based routing algorithms bias toward connectivity, highly connected nodes have a high probability to be selected by other nodes as their next hop
+In this paper, we provide empirical experiments to show the natural load imbalance of existing routing algorithms
+We then introduce Load Balanced Social-Tie Routing (LBR), a routing strategy in which messages are favorably forwarded to network nodes that have both a stronger social tie with the destination and a smaller or similar queue length
+Meanwhile, LBR distributes the load more evenly with the top 10% of network nodes handling 23% of the forwardings, compared to 37% for Epidemic routing, 43% for PROPHET, and 47% for BubbleRap
+Our contribution is a routing protocol which targets these challenges
+The problem of routing in mobile ad hoc wireless networks that employ directional antennas is contrasted with the more familiar problems of routing in conventional wired networks and routing in wireless networks that employ omni-directional antennas
+An example is developed to highlight novel aspects of the network routing problem that come into play when directional antennas are introduced
+A game theoretic analysis of this example, which interprets routing as a strategy adopted by message flows, sheds some light on how the kind of routing that best serves directional networks is fundamentally different from conventional routing
+Optimized Link State Routing (OLSR) has many advantages over other routing protocols for use within MANETs
+This paper discusses the augmentation of OLSR with a reactive routing algorithm referred to as Priority Aware Dynamic Routing (PADR)
+PADR along with OLSR forms a hybrid routing approach where routes may be chosen based on metrics that are difficult to account for by proactive routing alone; such as mobility, changing mission needs, dynamic resource allocation, and RF contention
+The proposed hybrid approach is designed to operate at the cipher text IP layer and is capable of routing over a single MANET subnet or over multiple heterogeneous subnets
+Traditionally, Border Gateway Protocol (BGP) is considered the de facto standard inter-domain routing protocol
+A more scalable approach is to develop a new inter-domain routing protocol that fundamentally addresses BGP protocol limitations
+This paper presents a distributed cognitive radio network architecture for joint routing and spectrum access, its implementation with software-defined radios (SDRs), and its evaluation in a high-fidelity emulation testbed
+CREATE deploys a full protocol stack with distributed coordination (no common control channel) and local network state information, and integrates neighborhood discovery, spectrum sensing and channel estimation with joint routing and channel access implemented with backpressure algorithm
+We describe the design, implementation and testing of the Component-Based Reusable Adaptive Mitigation (COBRAM) system, which is designed to mitigate attacks against control plane protocols at the MAC and routing layers of mobile wireless networks
+These techniques suffer from routing congestion problems in modern FPGAs that have a large number of logic blocks
+This paper presents a methodology using non cooperative game theory to formulate a countermeasure technique to combat the greedy behavior in ad-hoc networks using proactive routing protocol
+The effect of the greedy attack on the Optimized Link State Routing Protocol (OLSR) is evaluated to show the impact of the greedy behavior on the other nodes inside the network
+Geographical routing protocols in highly-dynamic aeronautical ad-hoc networks are vulnerable to fake geo-location information as an attack that affects network performance
+In this paper, a secure geographical routing protocol, called SAeroRP, for multi-hop routing in a highly dynamic aeronautical ad-hoc network is presented
+NS3 simulation analysis shows that the packet delivery ratio for the aeronautical routing protocol AeroRP decreased to up to 50%, depending on attack type and number of attackers
+These services are usually provided by proactive routing protocols with Multipoint Relay (MPR) technology
+In this paper, we quantify the impact of commonly used algorithms at the routing and the scheduling layers on the overall network throughput and compare their individual effects on overall network throughput performance
+We consider the routing and the scheduling layers separately since practical MANET implementations are likely to use a layered architecture even though the joint routing and scheduling algorithm is known to be optimal
+Our data shows that a good scheduling algorithm can provide potentially four times the throughput improvement of a good routing algorithm when inter-user interference conforms to an 802
+In particular, the relays for routing and the degree of link padding at each relay are chosen to optimize the tradeoff between anonymity from timing analysis, as measured by Shannon entropy of source destination pairs, and the average latency
+MCONF does not rely on specific routing or medium access protocols, and therefore can work with a wide range of network and link layer technologies
+In this model, routing is formulated in a distributed setting where each node operating with local information only finds the next-hop node, among all social and mobile ad hoc network (MANET) communication link neighbors, whose normalized delay is the smallest
+In our proposed system named `LTE-UTac' the unlicensed channel is either used in parallel to the licensed channel to increase maximum capacity and network spectral efficiency or used for range extension or routing redundancy capabilities
+The increasing need to augment ground/surface networks with an aerial tier has prompted research in understanding whether mobile ad-hoc network (MANET) routing techniques can be applied to the unique characteristics of high capacity airborne links
+One of the challenges of the joint architecture is the differing routing architectures
+The SDN architecture centralizes the routing logic, so the system is more scalable and on-board processing is minimized
+Optimized Link State Routing (OLSR) is a popular protocol for proactively establishing peer-to-peer links in mobile ad hoc networks (MANETs)
+Our results show that the commercial off-the-shelf implementations of the OLSR protocol are not resilient to unwanted interference leading a MANET to potential denial or degradation if its routing protocol were targeted
+Since routing in MSNs depends heavily on the cooperation among participating nodes, selfish or malicious behaviors of nodes impact strongly on the routing performance
+Then, we propose SSRS, a novel social-based secure routing strategy, which exploits social relationships to enhance routing security and performance
+The solution separates wired IP routing from routing in the radio network and applies cross-layer address management to efficiently map and distribute IP routes
+This calls for routing protocols that can quickly and efficiently route the application traffic to their destinations
+This paper proposes a distance-based routing protocol, named as Smallworld, which finds efficient routes to target nodes often through a very short chain of intermediate nodes, without using any routing table like other standard routing protocols
+The key idea behind this routing protocol is that for forwarding an incoming packet to the destination, a node picks the next hop from between a one-hop neighbor, from its one-hop neighborhood that is closest to the destination, and a randomly selected long-distance neighbor, i
+Several Network-layer protocols have been proposed in order to handle inter-domain routing for tactical MANETs
+, routing) that could lead to traffic hijacking, spoofing, eavesdropping, and several others
+Existing multi-hop routing approaches are not always appropriate due to node mobility
+DisService supports applications with routing and peer-to-peer content delivery in mobile ad hoc networks
+GCN's performance is compared against multiple popular wireless routing protocols, which we also run over-the-air
+These tests yield two notable results: (1) the seemingly benign environment of an office is in fact quite lossy, with high packet error rates between users that are geographically close to one another, and (2) that GCN does indeed offer high delivery with low network overhead, which is in contrast to traditional wireless routing schemes that offer either high delivery or low overhead, or sometimes neither
+For military applications, routing of information across a communication network has typically been accomplished using fixed, a priori defined, routing paths
+However, in bandwidth constrained environments, when not all information is able to be routed across the network, then fixed routing paths presents limitations in information reaching appropriate consumers
+In this research, we consider the advantages to using dynamic shortest temporal path routes for the information, as opposed to fixed routing paths
+We then present the Simple Agile RPL multiCAST (SARCAST), an Internet-of-Things routing protocol for DDoS protection
+Due to the interference among tags' transmissions, one of the main technical challenges of implementing such the NeTa architecture is the routing protocol design
+In this paper, we introduce a design of a routing protocol, which is based on a solution of a non-linear binary optimization problem
+Current practice is for an onboard ship router to select a particular SATCOM link for each outgoing traffic flow based on a mission-specific routing policy
+The unimportant nodes apply a hash-routing-based cache strategy to cache the unpopular contents in order to increase the cache diversity
+Perhaps surprisingly, localized bridging centrality frequently outperforms other centrality metrics in mixed mobility cases for the multicast routing flows examined
+This paper studies the problem of routing in a multilayer (communication and social) network
+Network protocols, such as link state routing and its variants, heavily used in mobile ad hoc networks (MANETs) cannot sustain robustness and efficiency as the topological information becomes easily stale with fast network dynamics
+This paper presents the SCATE (Social-Cognitive Advancement at Tactical Edge) routing protocol that applies social-cognitive techniques to improve robustness and efficiency of a multilayer network with MANET communication and social links
+In a distributed and decentralized setting with local information, nodes learn and update their distances to destinations using social-cognitive metrics and make routing decisions to minimize the end-to-end delay
+The SCATE protocol is compared with Optimized Link State Routing (OLSR) with and without social links
+Results show that the SCATE protocol is a viable solution to MANET routing by substantially reducing the overhead and the end-to-end delay, and increasing the end-to-end delivery ratio for both unicast and multicast traffic
+The backpressure algorithm is known to provide throughput optimal solutions to joint routing and scheduling for dynamic packet traffic
+This solution applies to cognitive radio networks with spectrum dynamics changing over time and space, and supports joint routing and spectrum access without any need for end-to-end path maintenance
+In the absence of a common control channel, distributed coordination with local information exchange is used to support neighborhood discovery, spectrum sensing and channel estimation that are integrated with joint routing, channel access and network coding
+In mobile Cognitive Radio Networks (CRNs), the frequent link breakage and wireless interference urged the need for novel stable routing solutions
+In this paper, we propose STAR, a stable routing protocol that aims at selecting interference-free and durable paths
+While existing CRNs routing solution, generally, overlook the interference caused by the Hidden Interfering Primary User (HIPU), STAR defines a HIPU-free transmission zone, that enables successful transmission and selects a stable route that is free from interference along the path to the destination
+In this paper, we propose a new routing model to account for the link utilization between nodes, as well as the remaining energy left in each node
+The framework, called Distributed Split-path, is implemented on top of the Optimized Link-State Routing (OLSR) protocol
+This paper describes enhancements to the disbursement of the file fragments routing improving the efficiency and time to completion of fragment distribution by defining the exact route, fragments should take to the destination

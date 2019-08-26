@@ -1,0 +1,11 @@
+
+from publication.models import PublicationType
+t = PublicationType.objects.create(name = 'IEEE Transactions on Wireless Communications',identifier = 'twc')
+t.save()
+
+from publication.models import Publication
+
+p = Publication.objects.create(title = 'sdgsdGs', journal= 'sdgsdGs',    _type = t,    book_title = 'sdgsdGs',    year = 2016,    volume= 3,    number= 6,    start_page = 3,    end_page=8,    publisher= 'sdgsdGs',    institution= 'sdgsdGs',    address = 'sdgsdGs')
+	
+	
+p.save()

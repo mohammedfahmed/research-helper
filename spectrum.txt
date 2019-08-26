@@ -1,0 +1,152 @@
+spectrum congestion is a serious problem
+Shared Spectrum Access improve efficient use of spectrum by allowing 
+designing spectrum sharing strategies in real systems
+distributed protocol that supports directional spectrum reuse for ..... waveforms
+This protocol was developed as an add-on module to a distributed resources manager designed to provide MANET nodes with neighborhood spectrum utilization information, as well as perform dynamic negotiation of the available shared spectrum
+The protocol utilizes spectrum awareness messaging that is defined per each channel and per TDMA slot
+This protocol allows each node to allocate resources (channel and slot) based on demand without interfering with existing users of that channel and slot while maximally reusing spectrum resources
+In this paper, we propose a missing spectrum data recovery technique for cognitive radio (CR) networks using Nonnegative Matrix Factorization (NMF)
+It is shown that the spectrum measurements collected from secondary users (SUs) can be factorized as product of a channel gain matrix times an activation matrix
+Then, an NMF method with piecewise constant activation coefficients is introduced to analyze the measurements and estimate the missing spectrum data
+The numerical simulation verifies that the proposed technique is able to accurately estimate the missing spectrum data in the presence of noise and fading
+Spectral efficiency (SE), defined as the average data rate per unit bandwidth, quantifies how efficiently the available spectrum is utilized
+Basically, with higher average energy per bit to noise power spectral density ratio at the receiver, the packet can be more successfully detected, thus utilizing the spectrum more efficiently, giving higher SE; however, in this case, it requires more energy, lowering EE, and vice versa
+In the static and exclusive spectrum allocation paradigm, the spectrum-access parameters for a service are chosen to mitigate potential harmful-interference and ensure minimum performance under worst-case conditions
+The new dynamic spectrum-sharing paradigm necessitates dynamically defining and enforcing the spectrum-access rights while accommodating the dynamics of the RF environment and the spectrum-access scenarios
+To enforce spectrum-access rights, we emphasize capturing the use of spectrum by an individual transceiver
+We propose to articulate the spectrum-access rights in terms of the characterization of the spectrum used by an individual transceiver in the space, time, and frequency dimensions
+In order to estimate the use of spectrum in real time, we employ a dedicated RF-sensor network that uses interference-tolerant algorithms to estimate the transceiver spectrum-access parameters and to characterize the propagation environment
+We illustrate defining and enforcing a spectrum-access policy and we bring out its advantages for dynamic spectrum sharing
+In order to reduce sampling costs and computational complexity in the signal reconstruction process of existing compressed spectrum sensing (CSS), we propose a novel two-step compressed spectrum sensing (TS-CSS) scheme exploiting correlation of occupation states between sensing periods
+Compared with traditional one step compressed spectrum sensing (OS-CSS) scheme, our TS-CSS needs fewer samples and lower computations to yield an accurate sensing outcome
+Signal detection and RF parameter estimation have received great interest in recent years due to the need for spectrum sensing in rapidly growing cognitive radio and cyber security research
+In most conventional signal detection and RF parameter estimation work, the target signal is often assumed to be a single primary user signal without overlap in spectrum with other signals
+However, in a spectrally congested environment or a spectrally contested environment which often occurs in cyber security applications, multiple signals are often mixed together with significant overlap in spectrum
+In our previous work, we have demonstrated the feasibility of using a second order spectrum correlation function (SCF) cyclostationary feature to perform mixed signal detection, but the detection was confined to BPSK modulation
+This paper presents a novel method for generating a secret key to augment the security of spread spectrum systems
+In this paper, without any loss of generality, we use the proposed key generation method as part of a filter bank multicarrier spread spectrum (FB-MC-SS) system, where robust performance against narrow and/or partial band interference is also guaranteed
+In spectrum trading, secondary users bid for the spectrum units being made available by primary users
+Auction theory has been widely applied to improve spectrum allocation in such spectrum trading scenarios
+However, in contrast to reality, most of the research work assume either static user populations or static spectrum supply or both
+In this work, we investigate a realistic dynamic auction environment where secondary users with diverse delay bounds arrive dynamically, and spectrum becomes available at random
+We illustrate the properties of the mechanism in terms of spectrum utilization rate, bidder satisfaction rate, and average bidder utility through extensive simulations
+Bandwidth allocation in spectrum-congested wire- less content delivery networks should be performed based on the user's Quality of Experience (QoE)
+However, during rapid deployment missions or rescue operations, one can observe all limitations of traditional approach to spectrum planning
+In such scenarios the solution is to use dynamic spectrum access (DSA) technology, which requires operational spectrum environment information and spectrum awareness
+Assuming that the Mobile Ad hoc Networking (MANET) network is hierarchical and contains a number of cluster heads (CH), the CHs can be used to prepare a Channel Ranking List (CRL) based on spectrum sensing information
+Rampant dynamic spectrum allocation over time leads to creation of narrow spectrum holes which can be aggregated to fulfill the bandwidth requirements of users
+Even though this approach increases the throughput, it comes at the cost of degraded spectrum utilization due to a rise in the number of required guard bands
+This paper proposes a framework for online defragmentation of non-contiguous channels as a way to mitigate the wastage of spectrum in channel aggregating DSA networks
+This paper presents a distributed cognitive radio network architecture for joint routing and spectrum access, its implementation with software-defined radios (SDRs), and its evaluation in a high-fidelity emulation testbed
+CREATE deploys a full protocol stack with distributed coordination (no common control channel) and local network state information, and integrates neighborhood discovery, spectrum sensing and channel estimation with joint routing and channel access implemented with backpressure algorithm
+As the RF spectrum becomes increasingly congested, localization algorithms which are tolerant of high levels of interference become necessary
+This paper reports the details of LOC-EED and offers a preliminary analysis of spectrum captures in the 2
+In this paper, a fast and computationally efficient joint presence detection and localization method is proposed for the non-cooperative direct sequence spread spectrum (DS-SS) signals
+Dynamic spectrum access (DSA) networks allow opportunistic spectrum access to license exempt secondary nodes
+Usually secondary nodes employ a cooperative sensing mechanism to correctly infer spectrum occupancy
+However, the possibility of falsification of locally sensed occupancy report, also known as secondary spectrum data falsification (SSDF) can cripple the operation of secondary networks
+Using the fusion scheme, we report the improvements of cooperative spectrum decisions for various multi-channel SSDF techniques
+In this paper, we study the problem of link scheduling for MANETs with directional antenna capability to maximize the network capacity by utilizing spatial spectrum sharing
+This paper explores Martingale processes in a fair game scenario where secondary users attempt to efficiently access the frequency spectrum resources in a time division multiple access (TDMA) wireless network
+OCP manages spectrum allocation/de-confliction, spatial spectrum reuse, and the dynamic setup and management of multiple heterogeneous omni and directional data links
+Additionally, this paper describes how this distributed agent architecture creates the foundation for capabilities such as dynamic directional spectrum reuse and true heterogeneous networking
+Due to the rapidly-changing topologies, limited wireless communication spectrum, latency, and priorities of tasks, it is vitally important to have dynamic spectrum management between aircrafts and base station in airborne networks
+To address these two challenges, we propose a distributed framework for spectrum management in airborne networks, which includes: 1) channel quality prediction based on correlation of channel quality among aircrafts; 2) task scheduling in the aircraft
+The proposed receiver architecture is based on non-maximally decimated filter bank (NMDFB) also known as polyphase channelizer which enables the functionality of simultaneously de-hopping multiple frequency-hopped spread spectrum (FHSS) signals at reduced sample rate
+Frequency hopping (FH) is a spread spectrum transmission technique that achieves frequency diversity gain over frequency selective fading channels and also has a low probability of interception
+PCCSK is a spread spectrum technique that supports various data rates and improves the data rate of JTIDS
+In this paper we introduce frequency hopping spread spectrum (FHSS) into Diagonal Bell Laboratories Layered Space-Time (D-BLAST) Multiple Input Multiple Output (MIMO) architecture
+In this scheme, the database allocates available spectrum with self-coexistence mechanism to avoid interference among SUs, and each base station registers spectrum information as an agent in the database SUs
+Limited wireless spectrum coupled with the need to support co-existence mechanisms call for robust receivers and improved interference management
+With a spectrum sharing operating mode, it is hard to model dynamic interference conditions in wireless networks
+The electromagnetic spectrum available for military use is increasingly crowded and scarce
+The military must efficiently allocate spectrum by reusing channels to the maximum extent possible, while also limiting the number of channel changes over time for systems that require manual channel configuration
+Spectrum access is critical to modern military operations
+Increasing demand and competition for spectrum is occurring as the spectrum landscape changes
+As spectrum operations evolve to become more decentralized, collaborative, adaptive, agile and flexible, new approaches to spectrum operations are needed
+This paper proposes Policy-Enhanced Spectrum Operations (PESO) as an approach to increasing automation of the spectrum management lifecycle by applying digital policies to spectrum management systems in support of dynamic, agile, and flexible spectrum access
+Analysis of the spectrum operations concepts utilized during the mission is performed and a subset of concepts are extracted and serve as the basis for the implementation of a Proof of Concept (PoC) demonstration based on Semantic Web technologies
+Thus, spectrum management of MANETs is critical to efficient and effective MANET acquisition and deployment
+The technical basis for the tactical spectrum management process is interference analysis
+In this paper, we present an approach to derive co-channel and adjacent channel IPC that result in efficient spectrum assignments
+This has driven the need for a more capable Automatic Link Establishment (ALE) system that links faster and adapts the wideband HF (WBHF) waveform to efficiently use available spectrum
+In this paper, we investigate the possibility and advantages of using various non-scanning ALE techniques with the new wideband ALE (WALE) to further improve spectrum awareness and linking speed
+A recent study has introduced a new spread spectrum waveform based on filter bank multicarrier techniques
+This paper presents SECANT (Spectrum Efficient Communications and Advanced Networking Technology) as a novel multiuser communication protocol that integrates advanced physical (PHY) layer techniques for adaptive multiple access and interference management
+SECANT combines multiuser multiple-input multiple output (MU-MIMO), multiuser detection (MUD), and interference alignment (IA) methods at the PHY layer such that spectrum efficiency can be improved in both interference and signal spaces
+An adaptive medium access control (MAC) mechanism is developed to enable spectrum efficiency gains at the PHY layer by managing concurrent transmissions and interference levels
+Numerical results indicate significant spectrum efficiency gains (>14 times for fully loaded, and >56 times for 25% loading) that can be achieved over conventional single antenna systems with static MAC protocols
+We demonstrate that in the case of an ideal pulse-shaping filter with rectangular spectrum, simple closed-form expressions of the moments can be found for up to the eighth order
+The DARPA RadioMap program focuses on large-area near-real-time spectrum situational awareness
+The program seeks to make this capability affordable through using opportunistic distributed devices as the sensor network; that is, through adding spectrum measurement functions to devices such as tactical radios and jammers already deployed for other purposes
+This paper presents an analytic three dimensional Air-Ground Doppler-delay spread spectrum model for dense scattering environments
+Also a Terrain based Doppler-delay spectrum simulator is proposed, where the results are verified using a real Digital Elevation Model (DEM)
+The result is an interoperable language for autonomous cognitive EW systems to create and share knowledge about the Electromagnetic Spectrum (EMS) and the platforms using it
+Hence, an FH signal generated by these two keys occupies the entire spectrum in both frequency and time domains, and the probability of detection by a jammer is low
+Our goal is to design a decision engine that evaluates the statistical observations of spectrum and link metrics provided by the co-located dynamic spectrum access (DSA) components
+In this paper, a minimax anti-jamming strategy in a frequency hopping spread spectrum (FHSS)/quadrature phase-shift keying (QPSK) satellite communication system is developed
+The ability to provide accurate spectrum sensing and decision making under an uncertainty environment is proving useful for the military SATCOM to increases the spectrum utilization
+Dynamic spectrum access(DSA) allows a secondary user to access the spectrum holes that are not occupied by the primary users
+However, the spectrum sensing for DSA is normally performed in a complex SATCOM environment under uncertainty, caused by the high GEO/LEO mobility, weak signals after a long distance of propagation, the high interference and jamming in an adversarial environment, etc
+The uncertainty results in a high error probability in the spectrum sensing
+In this paper, we propose an approach for optimal spectrum sensing and decision making that mathematically models the uncertainty in the SATCOM while the whole system throughput is maximized
+In this paper, we focus on the problem of how to realize secure sensing in a comprehensive hostile cognitive radio network where both PUEA and SSDF are present, while most existing research regarding secure sensing treats Primary User Emulation Attack (PUEA) and Spectrum Sensing Data Falsification (SSDF) separately
+This band was recently auctioned and will now be the first spectrum sharing band opened to both broadband wireless carriers and federal agencies
+Our proposed scheme is a coarse spectrum sensing technique that requires no prior knowledge of the exact synchronization sequences
+Our numerical results demonstrate that depending on the network parameters, the proposed spectrum sensing scheme is capable of significantly outperforming the existing spectrum sensing algorithms
+Frequency hopping (FH) was originally developed for secure communications by exploiting time-frequency diversity over a large spectrum
+This scheme is proposed to ensure that each channel group hops to a new hopping spectrum in a pseudo-random manner during each hopping period, and different channel groups always transmit over non-overlapping frequency bands
+Our analysis suggests that the proposed CGH scheme achieves collision-free frequency hopping among channel groups, such that a higher spectrum efficiency of the system can be obtained
+To overcome this problem, we in this paper consider a network where multiple D2D pairs with delay quality-of-service (QoS) requirements share a certain spectrum band
+They are advantageous in terms of improved spectrum utilization, higher data transfer rate, and lower probability of interception from unwanted sources
+They provide benefits in terms of better throughput, enhanced spectrum utilization and lower interference from unwanted sources
+Additionally, this paper provides a solution for the scenario where satellite ground terminals and cellular users are sharing the same spectrum band
+In this paper interference from a network of VMES terminals to a victim FS receiver is analyzed to facilitate spectrum sharing of VMES terminals with FS systems
+The essential principle is to divide large bandwidths into channels having bandwidths which are individually orders of magnitude greater than the message bit rate, apply a direct sequence spread spectrum carrier to each channel, and represent information as time offsets between channels
+Spread spectrum communication systems can require significant computation to perform initial acquisition, searching across time and frequency to accurately detect and lock onto the desired signal
+Improvements to the adaptive correlator technique are identified, permitting flexibility in the correlation search windows, making it configurable for different applications like GNSS, DSSS communications, and noise-like chaotic spread spectrum signals
+A new method for generating digital noise-like spread spectrum signals is proposed
+Recently, we have proposed filter bank multicarrier spread spectrum (FB-MC-SS) as a robust and stealthy HF communication waveform
+Efficient site-specific mobile-mobile urban propagation modeling is critical to a variety of applications, including spectrum management, spectrum and communications systems planning, and dynamic spectrum access policy development
+Reasons for this include their resistance to multipath fading, ability to overcome the limitations of a congested frequency spectrum, ability to exploit frequency diversity gains, and potential to perform radar and communication functions simultaneously within the same hardware using the same waveform
+As electromagnetic spectrum availability shrinks, there is growing interest in combining multiple functions, such as radar and communications signals, into a single multipurpose waveform
+The contribution of this research is the use of reduced phase-angle binary phase shift keying (BPSK) along with overlapped (channelized) spread-spectrum phase discretes based on pseudorandom noise sequences to encode multiple messages in a single pulse
+The classical approach to covert communications hides the signal in noise; however, the increasing demand for modern covert systems that provides better protection against intercept receivers (IRs) has shifted the focus to the design of Ad-Hoc covert networks (ACNs) that can hide their transmission in the RF spectrum of primary networks (PNs), like mobile networks
+These radios offer tremendous new capabilities, including high data rates and automatic traffic relay, but have large electromagnetic spectrum requirements
+We explore the challenges faced by a spectrum manager in allocating the minimum number of channels to support communications for military forces conducting tactical operations
+In order to relieve spectrum resource scarcity, heterogeneous cellular network has been proposed
+The second case study is the application of spectrum masking, the third is the use of power difference of arrival localization algorithm to triangulate the location of a local unknown emitter and the fourth utilizes the emulator for testing and verification of a Multiple Link Common Data Link System
+A joint radar-communication (JRC) system can provide cost-effective and spectrum-efficient platform solution with simultaneous operation, while accomplishing important tasks, sensing via radar processing and allocation of communication links
+Cognitive Radio has been widely researched, often to address perceived spectrum scarcity
+This paper presents the design for a prototype tactical dynamic spectrum access (DSA) mobile ad hoc network, where the network is organized into clusters operating on a single frequency
+In this paper, the problem of minimizing the damaging effect on the frequency hopping (FH) spread-spectrum satellite is formulated using the two-player asymmetric zero-sum game framework
+Increased demand for wireless services has spurred research into spectrum co-existence between radar and communication systems
+We first address the calculations of codeword's size in 3GPP specification, where an unhealthy component carrier selection mechanism is introduced for defining relay's transmission spectrum
+A careful study of interference caused by a secondary cellular communication system coexisting with an incumbent naval radar is required to establish a pragmatic protection distance, which not only protects the incumbent from harmful interference but also can increase spectrum access opportunity for the coexisting secondary system
+Therefore, quantifying the SA-QoE-QoS relationship will help the network operator to ensure a high level of SA when the network is under attack, through parsimonious allocation of network resources such as spectrum and power
+Furthermore, frequency spectrum is a scarce resource and must often be shared by several networks resulting in a risk for internetwork interference
+Earlier work show that performance on a communication link can be degraded by interference between FH systems sharing the same spectrum resource
+Furthermore, subband energy detection based methods utilizing FC-FBs are proposed for robust spectrum sensing of the legacy PMR signals of the terrestrial trunked radio (TETRA) family
+The flexibility of FC-FB makes it possible to optimize the broadband waveform processing and spectrum sensing filter characteristics independently
+Using a novel 28 GHz phased-array sounder with high phase stability, we present results in an urban microcell LoS, and LOS to NLOS transition region scenario, for the stationarity region of shadowing, power delay profile, and the angular power spectrum
+This solution applies to cognitive radio networks with spectrum dynamics changing over time and space, and supports joint routing and spectrum access without any need for end-to-end path maintenance
+In the absence of a common control channel, distributed coordination with local information exchange is used to support neighborhood discovery, spectrum sensing and channel estimation that are integrated with joint routing, channel access and network coding
+In this paper, we propose and analyze new spectrum-efficient communication and radar sensing systems (named ComSens) operating in full-duplex mode with frequency division duplex scheme
+Our proposed scheme doesn't require any a priori knowledge of the exact synchronization sequences, so it can be classified as a coarse spectrum sensing technique
+We compared the proposed technique against other existing schemes that are commonly used in spectrum sensing
+Dynamic Spectrum Access (DSA) based Cognitive Radio (CR) allows a secondary user (SU) to use spectrum in an opportunistic manner when the primary user (PU) of that spectrum is not transmitting
+Conventional dynamic spectrum allocation methods deal with acquiring spectrum as fixed width channels
+In this paper, we propose a novel technique where a node inside a network can dynamically access the spectrum of any width
+With the trend towards higher throughput requirements and spectrum congestion, researchers have looked at using multi-antenna techniques to enable concurrent transmissions within a one-hop MANET
+It is a challenge today to set up novel data intensive services at UHF frequencies because the scarce spectrum is divided into a plethora of narrowband channels that have been allocated by regulatory agencies to different nations
+Therefore, increasing the spectrum to be used for a single service is not a viable strategy
+In this paper, a transmission mode selection scheme is proposed for device-to-device (D2D) communications underlay cellular networks, where potential D2D (p-D2D) users reuse the spectrum of uplink cellular users (CUEs)
+Cognitive radio network (CRN) is regarded as an emerging technology for better spectrum efficiency where unlicensed secondary users (SUs) sense RF spectrum to find idle channels and access them opportunistically without causing any harmful interference to licensed primary users (PUs)
+However, RF spectrum sensing and sharing along with reconfigurable capabilities of SUs bring severe security vulnerabilities in the network
+In addition, a legitimate SU competes with other SUs with a sharing attitude for dynamic spectrum access to gain a high secrecy rate, however, the malicious users (i
+The DoA estimation problem is formulated as a mixed-norm ℓ2,1 minimization problem and the reactance domain multiple signal classification (RD-MUSIC) spatial spectrum for ESPAR antenna is introduced
+Cooperative spectrum sensing is often necessary in cognitive radios systems to localize a transmitter by fusing the measurements from multiple sensing radios
+However, revealing spectrum sensing information also generally leaks information about the location of the radio that made those measurements
+We propose a protocol for performing cooperative spectrum sensing while preserving the privacy of the sensing radios
+Dynamic spectrum access (DSA) has seen a growing interest in recent years due to spectrum scarcity
+- contaminate the spectrum with non-Gaussian noise

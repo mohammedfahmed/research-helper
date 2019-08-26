@@ -1,0 +1,26 @@
+5G
+4G
+LTE
+Access
+AI platform
+COTS
+FPGA
+Jamming
+Load balancing
+MIMO
+OFDM
+Orchestration and Reconfiguration Control Architecture
+PhysicalLayer
+ReinforcementLearning
+SpectrumSensing
+WiMax
+Delay
+QoS
+Topology
+UAV
+Cooperative communication
+low-latency
+high-reliability wireless 
+diversity
+
+

@@ -1,0 +1,13 @@
+The 2010 Joint Space Communication Layer (JSCL) Initial Capabilities Document (ICD) forecasts a large demand increase for US MILSATCOM in contested environments during the 2020-2025 timeframe
+ However, in a spectrally congested environment or a spectrally contested environment which often occurs in cyber security applications, multiple signals are often mixed together with significant overlap in spectrum
+Collaborative autonomy of unmanned air-vehicles (UA) in harsh or contested environments is a challenging and increasingly important problem
+ However, not much work has been devoted to developing a systematic cross-layer framework that lends itself well to housing alternative cross-layer design algorithms for contested networks that are of interest to the Army
+ In this paper, we describe a flexible, modular and extensible cross-layer framework that can be used both in contested and benign environments to design robust multi-tiered ad hoc communications networks
+ When a network operates in a contested environment, the operator may wish to alter the network topology to enhance robustness
+Jamming is an ongoing threat that plagues wireless communications in contested areas
+Parameter optimization such as power and time allocation plays an important role in emerging cooperative relaying protocol designs, especially when the environment is congested and contested
+In communication-denied scenarios or contested environments, Line-of-sight(LoS) communication (by infrared or visible light) becomes one of the most reliable ways to send information between mobile units
+ Security in terms of measurement integrity, confidentiality, and authenticity is an area of interest because OBAN system components exchange sensitive data in contested environments
+Today, rapid business and technology innovations are producing an array of advanced commercial satellite communications (COMSATCOM) systems that can deliver massive amounts of SATCOM capacity at a fraction of current cost and offer communications diversity that is critical for achieving resilience in a military contested environment
+ In this paper we examine how the architecture can provide an agile swarming approach to data ferrying to facilitate information exchange in a highly contested radio frequency (RF) environment
+The inherent nature of unattended sensors makes these devices most vulnerable to detection, exploitation, and denial in contested environments
